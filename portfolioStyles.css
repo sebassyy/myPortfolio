@@ -1,7 +1,13 @@
 .intro {
   background-color: green;
+  margin: 0;
 }
 .myName {
   color: white;
   font-family: 'Roboto Slab';
+}
+.description {
+  color: white;
+  font-family: 'Roboto Slab';
+  margin: auto;
 }
