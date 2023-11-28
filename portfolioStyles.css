@@ -1,5 +1,4 @@
 .intro {
-  background-color: green;
   margin: 0;
 }
 .myName {
@@ -13,4 +12,6 @@
   position: absolute;
   top: 20px;
 }
-
+body {
+  background-color: 3F704D;
+}
