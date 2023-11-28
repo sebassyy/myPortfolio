@@ -1,3 +1,7 @@
-h1 {
+.intro {
   background-color: green;
+}
+.myName {
+  color: white;
+  font-family: 'Roboto Slab';
 }
