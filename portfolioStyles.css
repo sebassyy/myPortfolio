@@ -21,6 +21,7 @@ body {
 }
 .menuops {
   list-style-type: none;
+  overflow: hidden;
 }
 .menuops li{
   float: right;
