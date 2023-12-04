@@ -4,6 +4,7 @@
 .myName {
   color: white;
   font-family: 'Roboto Slab';
+  float: left;
 }
 .description {
   color: white;
