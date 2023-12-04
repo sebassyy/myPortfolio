@@ -19,12 +19,13 @@ body {
   position: relative;
   top: 100px;
   border: 1px solid black;
+  margin: auto;
 }
 .menuops {
   list-style-type: none;
   overflow: hidden;
   position: relative;
-  top: 50px;
+  top: 40px;
 }
 .menuops li{
   float: right;
