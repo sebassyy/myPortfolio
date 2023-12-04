@@ -18,9 +18,9 @@ body {
   position: relative;
   top: 100px;
 }
-.menu {
+.menuops {
   list-style-type: none;
 }
-.menuops {
+.menuops li{
   float: right;
 }
