@@ -23,4 +23,6 @@ body {
 }
 .menuops li{
   float: right;
+  color: white;
+  font-family: 'Roboto Slab'
 }
