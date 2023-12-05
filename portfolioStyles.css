@@ -11,6 +11,7 @@
   font-family: 'Roboto Slab';
   text-align: center;
   margin: 0 auto;
+  clear: both;
 }
 body {
   background-color: #3F704D;
