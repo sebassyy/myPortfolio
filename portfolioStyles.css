@@ -19,7 +19,6 @@ body {
 .descAlign {
   position: relative;
   top: 100px;
-  border: 1px solid black;
   margin: auto;
 }
 .menuops {
