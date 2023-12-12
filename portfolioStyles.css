@@ -19,6 +19,15 @@ body {
   position: relative;
   height: 500px;
   width: auto;
-  border: 1px solid white;
+}
+@keyframes twinkling {
+  0% {opacity: 0;}
+  50% {opacity: 1;}
+  100% {opacity: 0;}
+}
+.star {
+  position: absolute;
+  font-size: 15px;
+  animation: twinkling 10s infinite;
 }
 
