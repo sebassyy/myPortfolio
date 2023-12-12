@@ -1,34 +1,14 @@
-.intro {
-  margin: 0;
-}
-.myName {
-  color: white;
-  font-family: 'Roboto Slab';
-  float: left;
-}
-.description {
-  color: white;
-  font-family: 'Roboto Slab';
-  text-align: center;
-  margin: 0 auto;
-  clear: both;
-}
 body {
   background-color: #3F704D;
+  font-family: 'Roboto Slab';
+  margin: 0;
 }
-.descAlign {
-  position: relative;
-  top: 100px;
-  margin: auto;
+.topholder {
+  display: flex;
+  justify-content: space-between;
 }
-.menuops {
-  list-style-type: none;
-  overflow: hidden;
-  position: relative;
-  top: 35px;
+.topleft > span {
+  font-size: large;
+  font-weight: 900;
 }
-.menuops li{
-  float: right;
-  color: white;
-  font-family: 'Roboto Slab'
-}
+
