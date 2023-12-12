@@ -6,9 +6,8 @@ body {
 .topholder {
   display: flex;
   justify-content: space-between;
+  color: white;
+  align-items: center;
 }
-.topleft > span {
-  font-size: large;
-  font-weight: 900;
-}
+
 
