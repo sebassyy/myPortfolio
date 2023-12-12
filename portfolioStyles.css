@@ -25,8 +25,42 @@ body {
   50% {opacity: 1;}
   100% {opacity: 0;}
 }
-.star {
+#star1 {
   position: absolute;
+  font-size: 15px;
+  animation-name: twinkling;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+}
+#star2 {
+  position: absolute;
+  top: 450px;
+  font-size: 15px;
+  animation-name: twinkling;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+}
+#star3 {
+  position: absolute;
+  font-size: 15px;
+  left: 750px;
+  animation-name: twinkling;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+}
+#star4 {
+  position: absolute;
+  top: 200px;
+  left: 30px;
+  font-size: 15px;
+  animation-name: twinkling;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+}
+#star5 {
+  position: absolute;
+  top: 250px;
+  left: 780px;
   font-size: 15px;
   animation-name: twinkling;
   animation-duration: 10s;
