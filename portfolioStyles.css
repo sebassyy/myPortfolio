@@ -28,6 +28,8 @@ body {
 .star {
   position: absolute;
   font-size: 15px;
-  animation: twinkling 10s infinite;
+  animation-name: twinkling;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
 }
 
