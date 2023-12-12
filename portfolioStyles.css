@@ -17,7 +17,7 @@ body {
 }
 .descnani {
   position: relative;
-  height: 500px;
+  height: 400px;
   width: auto;
 }
 @keyframes twinkling {
@@ -34,7 +34,7 @@ body {
 }
 #star2 {
   position: absolute;
-  top: 450px;
+  top: 400px;
   font-size: 15px;
   animation-name: twinkling;
   animation-duration: 10s;
