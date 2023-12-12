@@ -1,12 +1,12 @@
 body {
-  background-color: #3F704D;
+  background-color: #040406;
   font-family: 'Roboto Slab';
   margin: 0;
+  color: white;
 }
 .topholder {
   display: flex;
   justify-content: space-between;
-  color: white;
   align-items: center;
 }
 
