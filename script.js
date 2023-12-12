@@ -19,8 +19,8 @@ function movestar5() {
     document.getElementById('star5').style.left = JSON.stringify(Math.floor(Math.random() * 1200))+"px";
 }
 
-setInterval(movestar1, 10000);
+setInterval(movestar1, 7000);
 setInterval(movestar2, 10000);
-setInterval(movestar3, 10000);
-setInterval(movestar4, 10000);
-setInterval(movestar5, 10000);
+setInterval(movestar3, 5000);
+setInterval(movestar4, 9000);
+setInterval(movestar5, 6000);
