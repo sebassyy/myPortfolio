@@ -17,7 +17,7 @@ body {
 }
 .descnani {
   position: relative;
-  height: 400px;
+  height: 60vh;
   width: 95vw;
 }
 @keyframes twinkling {
