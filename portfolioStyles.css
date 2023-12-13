@@ -5,7 +5,10 @@ body {
   color: white;
 }
 .myName {
-  font-size: 2vw;
+  font-size: 3.7vw;
+}
+.desc {
+  font-size: 2.5vw;
 }
 .topholder {
   display: flex;
