@@ -6,6 +6,7 @@ body {
 }
 .myName {
   font-size: 3.7vw;
+  margin-left: 0.2vw;
 }
 .desc {
   font-size: 2.5vw;
